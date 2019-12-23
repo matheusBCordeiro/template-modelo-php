@@ -94,7 +94,7 @@
         </div>
     </main>
     <footer class="rodape">
-        Matheus Cordeiro © 2019
+        Matheus Cordeiro © <?= date('Y');?>
     </footer>
 </body>
 

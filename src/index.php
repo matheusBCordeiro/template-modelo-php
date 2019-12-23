@@ -21,73 +21,73 @@
                 <div class="modulo verde">
                     <h3>Módulo #1</h3>
                     <ul>
-                        <li><a href="#">Exercico A</a></li>
-                        <li><a href="#">Exercico B</a></li>
-                        <li><a href="#">Exercico C</a></li>
+                        <li><a href="exercicio.php">Exercíco A</a></li>
+                        <li><a href="#">Exercíco B</a></li>
+                        <li><a href="#">Exercíco C</a></li>
                     </ul>
                 </div>
                 <div class="modulo vermelho">
                     <h3>Módulo #2</h3>
                     <ul>
-                        <li><a href="#">Exercico A</a></li>
-                        <li><a href="#">Exercico B</a></li>
-                        <li><a href="#">Exercico C</a></li>
+                        <li><a href="#">Exercíco A</a></li>
+                        <li><a href="#">Exercíco B</a></li>
+                        <li><a href="#">Exercíco C</a></li>
                     </ul>
                 </div>
                 <div class="modulo azul">
                     <h3>Módulo #3</h3>
                     <ul>
-                        <li><a href="#">Exercico A</a></li>
-                        <li><a href="#">Exercico B</a></li>
-                        <li><a href="#">Exercico C</a></li>
+                        <li><a href="#">Exercíco A</a></li>
+                        <li><a href="#">Exercíco B</a></li>
+                        <li><a href="#">Exercíco C</a></li>
                     </ul>
                 </div>
                 <div class="modulo roxo">
                     <h3>Módulo #4</h3>
                     <ul>
-                        <li><a href="#">Exercico A</a></li>
-                        <li><a href="#">Exercico B</a></li>
-                        <li><a href="#">Exercico C</a></li>
+                        <li><a href="#">Exercíco A</a></li>
+                        <li><a href="#">Exercíco B</a></li>
+                        <li><a href="#">Exercíco C</a></li>
                     </ul>
                 </div>
                 <div class="modulo laranja">
                     <h3>Módulo #5</h3>
                     <ul>
-                        <li><a href="#">Exercico A</a></li>
-                        <li><a href="#">Exercico B</a></li>
-                        <li><a href="#">Exercico C</a></li>
+                        <li><a href="#">Exercíco A</a></li>
+                        <li><a href="#">Exercíco B</a></li>
+                        <li><a href="#">Exercíco C</a></li>
                     </ul>
                 </div>
                 <div class="modulo verde-escuro">
                     <h3>Módulo #6</h3>
                     <ul>
-                        <li><a href="#">Exercico A</a></li>
-                        <li><a href="#">Exercico B</a></li>
-                        <li><a href="#">Exercico C</a></li>
+                        <li><a href="#">Exercíco A</a></li>
+                        <li><a href="#">Exercíco B</a></li>
+                        <li><a href="#">Exercíco C</a></li>
                     </ul>
                 </div>
                 <div class="modulo vermelho-escuro">
                     <h3>Módulo #7</h3>
                     <ul>
-                        <li><a href="#">Exercico A</a></li>
-                        <li><a href="#">Exercico B</a></li>
-                        <li><a href="#">Exercico C</a></li>
+                        <li><a href="#">Exercíco A</a></li>
+                        <li><a href="#">Exercíco B</a></li>
+                        <li><a href="#">Exercíco C</a></li>
                     </ul>
                 </div>
                 <div class="modulo azul-escuro">
                     <h3>Módulo #8</h3>
                     <ul>
-                        <li><a href="#">Exercico A</a></li>
-                        <li><a href="#">Exercico B</a></li>
-                        <li><a href="#">Exercico C</a></li>
+                        <li><a href="#">Exercíco A</a></li>
+                        <li><a href="#">Exercíco B</a></li>
+                        <li><a href="#">Exercíco C</a></li>
                     </ul>
                 </div>
                 <div class="modulo roxo-escuro">
                     <h3>Módulo #9</h3>
                     <ul>
-                        <li><a href="#">Exercico A</a></li>
-                        <li><a href="#">Exercico B</a></li>
-                        <li><a href="#">Exercico C</a></li>
+                        <li><a href="#">Exercíco A</a></li>
+                        <li><a href="#">Exercíco B</a></li>
+                        <li><a href="#">Exercíco C</a></li>
                     </ul>
                 </div>
             </nav>

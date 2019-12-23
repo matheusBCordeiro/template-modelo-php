@@ -10,16 +10,21 @@
     <title>Exercício PHP</title>
 </head>
 
-<body>
+<body class="exercicio">
     <header class="cabecalho">
         <h1>Desenvolvendo PHP</h1>
-        <h2>Visualização de Exercícios PHP</h2>
+        <h2>Visualização do Exercício PHP</h2>
     </header>
+    <nav class="navegacao">
+        <a href=<?= "/{$_GET['dir']}/{$_GET['file']}.php" ?> class="verde">Sem formatação</a>
+        <a href="index.php" class="vermelho">Voltar</a>
+    </nav>
     <main class="principal">
-        <div class="conteudo"></div>  
+        <div class="conteudo"></div>
+        <?php include(__DIR__ . "{$_GET['dir']}/{$_GET['file']}.php") ?>
     </main>
     <footer class="rodape">
-        Matheus Cordeiro © <?= date('Y');?>
+        Matheus Cordeiro © <?php date('Y'); ?>
     </footer>
 </body>
 
